@@ -46,4 +46,4 @@ dotnet add package HaemmerElectronics.SeppPenner.AESCryptoLib
 Change history
 --------------
 
-See the [Changelog](https://github.com/SeppPenner/AESCryptoLib/blob/master/Changelog.md).
+See the [Changelog](https://github.com/philmalv129/AESCryptoLib/blob/master/Changelog.md).
